@@ -139,3 +139,6 @@ b{font-weight: 900;}
     /*0 0 3px #999;*/
     /*margin: -50px auto 10px;*/
 }
+.text-ltr{
+    direction: ltr;
+}
