@@ -142,3 +142,6 @@ b{font-weight: 900;}
 .text-ltr{
     direction: ltr;
 }
+.img-center{
+    text-align: center;
+}
